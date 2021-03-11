@@ -1,8 +1,10 @@
 ---
 title: "Lab 6 - La Quinta is Spanish for next to Denny's, Pt. 1"
-subtitle: "Visualizing spatial data"
-author: salma ali
-output: pdf_document
+author: "salma ali"
+subtitle: Visualizing spatial data
+output:
+  html_document:
+    df_print: paged
 ---
 
 Student ID: 2201002881
