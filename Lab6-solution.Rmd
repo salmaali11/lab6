@@ -1,6 +1,6 @@
 ---
 title: "Lab 6 - La Quinta is Spanish for next to Denny's, Pt. 1"
-author: "salma ali"
+author: "Salma ali"
 subtitle: Visualizing spatial data
 output:
   html_document:
